@@ -6,3 +6,6 @@
 
 ## APP IDEA: 
 The app is an app for people to post photos and videos, and text. But here is what makes this social media app different. At midnight each and every night every post will be deleted. The only thing that will not be deleted on the app are the users and their followers. This will allow people to write about current topics, and allow them to read other's current posts as well. As of right now there will be no limit to how many blog-like posts you can post in a day. There will also be a window of time, I'm thinking between 11:50pm and 12:10am, where you can not post. That way it allows the database to clear itself at midnight and not get overrun with posts till right at midnight potentially cuasing bugs and glitches.
+
+
+Would love to here anyone's thoughts on this!
