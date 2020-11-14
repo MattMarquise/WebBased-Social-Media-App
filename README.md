@@ -1,5 +1,5 @@
 # Web-based Social Media App Project
- This is a repo for a Web-based Social Media App build with the laravel framework. I gained inspiration from various social media platforms. The idea for this project came when I was thinking how SnapChat must use very little storage in their databases because the image messages dissapear after opening. I thought how interesting it would be to create a social media app using the exact same concept of erasing, while also making it unique. 
+ This is a repo for a Web-based Social Media App. I gained inspiration from various social media platforms. The idea for this project came when I was thinking how SnapChat must use very little storage in their databases because the image messages dissapear after opening. I thought how interesting it would be to create a social media app using the exact same concept of erasing, while also making it unique. 
  
 ##### WORKING TITLE OF APP: "Hello. Buh Bye."
 
